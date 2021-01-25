@@ -14,6 +14,6 @@ The growth mindset believes that one’s fundamental abilities can be developed 
 
 [MORE ABOUT GROWTH MINDSET](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-### Designed By : MOHAMMAD ADNAN AL AZZAM 
+#### Designed By : MOHAMMAD ADNAN AL AZZAM 
 
  [Contact US ON github](https://github.com/MOHAMMAD-ADNAN-ALAZZAM)
