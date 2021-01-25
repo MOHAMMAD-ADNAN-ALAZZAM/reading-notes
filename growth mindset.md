@@ -7,5 +7,9 @@ The growth mindset believes that one’s fundamental abilities can be developed 
  
 ![GROTH MINDSET](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
-|               |       Growth    |       Fixed     |
+### How to keep yourself in a growth mindset ?
+1. there is no impossible
+2. You need a hardwork
+3. You getting your goals closer
+
 
