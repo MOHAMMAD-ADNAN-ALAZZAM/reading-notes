@@ -1,7 +1,7 @@
 # A SCRIPT IS A SERI ES OF INSTRUCTIONS
 
 
-![s](a.jpg)
+![s](s.jpg)
 
 
 #  DEFINE THE GOAL First, you need to define the task you want to
