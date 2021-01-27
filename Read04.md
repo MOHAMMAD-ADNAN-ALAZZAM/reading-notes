@@ -1,6 +1,9 @@
 # A SCRIPT IS A SERI ES OF INSTRUCTIONS
 
 
+![s](a.jpg)
+
+
 #  DEFINE THE GOAL First, you need to define the task you want to
 ## achieve. You can think of this as a puzzle for the
 ## computer to solve.
@@ -20,6 +23,11 @@
 ## programming language that the compu ter
 ## understands. In our case, this is JavaScript.
 
+* ............................
+
+![csj](cs.jpg)
+
+
 
 * ...........................
 
@@ -31,6 +39,19 @@
 
 * ............................
 
+# ARITHMETIC OPERATORS
+
+
+
+![a](a.jpg)
+
+
+
+* ............................... 
+
+# add by MOHAMMAD ADNAN ALAZZAM 
+
+* ...............................
 
 
 
