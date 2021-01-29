@@ -22,4 +22,8 @@
  * [mixed martial arts](https://www.youtube.com/watch?v=LWE79K2Ii-s)
 
 
+<<<<<<< HEAD
 ## [GitHubGROTH-MINDSET](https://mohammad-adnan-alazzam.github.io/reading-notes/read1)
+=======
+## [GitHubGROTH-MINDSET](https://mohammad-adnan-alazzam.github.io/reading-notes/read1)
+>>>>>>> 1e75b0168ac1eb3ac041be70bf9a99d268e6670d
