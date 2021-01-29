@@ -8,26 +8,26 @@ regular text with a few non-alphabetic characters thrown in, like # or *.
 
 An
 ## Links  
-`[example](http://example.com)`
++ [example](http://example.com)`
 
 ## Images  
-`![Image](Icon-pictures.png "icon")`
++ ![Image](Icon-pictures.png "icon")`
 
 ## Tables 
 
-` First Header | Second Header`
++ First Header | Second Header`
 
-` ------------ | -------------`
++ ------------ | -------------`
 
-` Content from cell 1 | Content from cell 2`
++  Content from cell 1 | Content from cell 2`
 
-` Content in the first column | Content in the second column`
++ Content in the first column | Content in the second column`
 
 
 ## Emphasis
 
-`**This text will be bold**
-__This will also be bold__`
++ **This text will be bold**
++ __This will also be bold__
 
 
 
