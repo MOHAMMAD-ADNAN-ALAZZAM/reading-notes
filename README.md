@@ -27,3 +27,17 @@
 =======
 ## [GitHubGROTH-MINDSET](https://mohammad-adnan-alazzam.github.io/reading-notes/read1)
 >>>>>>> 1e75b0168ac1eb3ac041be70bf9a99d268e6670d
+
+
+[Read02a](https://mohammad-adnan-alazzam.github.io/reading-notes/Read02a)
+
+[Read02b](https://mohammad-adnan-alazzam.github.io/reading-notes/Read02b)
+
+[Read04](https://mohammad-adnan-alazzam.github.io/reading-notes/Read04)
+
+[Read05loops](https://mohammad-adnan-alazzam.github.io/reading-notes/Read05loops)
+
+[Read06a](https://mohammad-adnan-alazzam.github.io/reading-notes/Read06a)
+
+[readhtml](https://mohammad-adnan-alazzam.github.io/reading-notes/readhtml)
+
