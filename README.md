@@ -45,21 +45,23 @@
 
 # Code 201 Reading Notes 
 
-1 | Header | Title |
-2 | Header | Title |
-3 | Header | Title |
-4 | Header | Title |
-5 | Header | Title |
-6 | Header | Title |
-7 | Header | Title |
-8 | Header | Title |
-9 | Header | Title |
-10| Header | Title |
-11| Header | Title |
-12| Header | Title |
-13| Header | Title |
-14| Header | Title |
-15| Header | Title |
+reading assignments
+
+1 | reading | Title |
+2 | reading | Title |
+3 | reading | Title |
+4 | reading | Title |
+5 | reading | Title |
+6 | reading | Title |
+7 | reading | Title |
+8 | reading | Title |
+9 | reading | Title |
+10| reading | Title |
+11| reading | Title |
+12| reading | Title |
+13| reading | Title |
+14| reading | Title |
+15| reading | Title |
 
 
 
