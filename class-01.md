@@ -39,9 +39,9 @@ Older browsers that do not understand HTML5 elements need to be told which eleme
 It’s important to understand w XX ho your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
 Site maps allow you to plan the structure of a site.
 
-[.](pic/12.png)
+![.](pic/12.png)
 
-[.](pic/13.jpg)
+![.](pic/13.jpg)
 
 Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
 You can differentiate between pieces of information using size, color, and style.
