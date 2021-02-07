@@ -47,8 +47,8 @@
 
 reading assignments
 
-1 | reading1 |[class-01](https:/mohammad-adnan-alazzamgithubio/reading-notes/class-01)|
-2 | reading2 | [201Read02](https:/mohammad-adnan-alazzamgithubio/reading-notes/201Read02) |
+1 | reading1 | [class-01](https://mohammad-adnan-alazzam.github.io/reading-notes/class-01) |
+2 | reading2 | [201Read02](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read02) |
 3 | reading | Title |
 4 | reading | Title |
 5 | reading | Title |
