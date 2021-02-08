@@ -2,7 +2,9 @@
 
 ## My academic major in applied physics .
 ## I graduated from Tafila Technical University .
-+ ...................................................
+_______________________________________________________________________________
+
+______________________________________________________________________________
 ## My hobbyS :-
 
 ### I love combat sports
@@ -22,34 +24,27 @@
  * [mixed martial arts](https://www.youtube.com/watch?v=LWE79K2Ii-s)
 
 
-<<<<<<< HEAD
+
 ## [GitHubGROTH-MINDSET](https://mohammad-adnan-alazzam.github.io/reading-notes/read1)
-=======
-## [GitHubGROTH-MINDSET](https://mohammad-adnan-alazzam.github.io/reading-notes/read1)
->>>>>>> 1e75b0168ac1eb3ac041be70bf9a99d268e6670d
+___________________________________________________________________________________
+_______________________________________________________________________________________
 
+| reading1 | [Read02a](https://mohammad-adnan-alazzam.github.io/reading-notes/Read02a)|
+| reading2 |[Read02b](https://mohammad-adnan-alazzam.github.io/reading-notes/Read02b) |
+| reading3 |[Read04](https://mohammad-adnan-alazzam.github.io/reading-notes/Read04) |
+| reading4 |[Read05loops](https://mohammad-adnan-alazzam.github.io/reading-notes/Read05loops) |
+| reading5 | [Read06a](https://mohammad-adnan-alazzam.github.io/reading-notes/Read06a) |
+| reading6 | [readhtml](https://mohammad-adnan-alazzam.github.io/reading-notes/readhtml)|
 
-[Read02a](https://mohammad-adnan-alazzam.github.io/reading-notes/Read02a)
-
-[Read02b](https://mohammad-adnan-alazzam.github.io/reading-notes/Read02b)
-
-[Read04](https://mohammad-adnan-alazzam.github.io/reading-notes/Read04)
-
-[Read05loops](https://mohammad-adnan-alazzam.github.io/reading-notes/Read05loops)
-
-[Read06a](https://mohammad-adnan-alazzam.github.io/reading-notes/Read06a)
-
-[readhtml](https://mohammad-adnan-alazzam.github.io/reading-notes/readhtml)
-
-....................................................
-
+______________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________
 # Code 201 Reading Notes 
 
 reading assignments
 
 1 | reading1 | [class-01](https://mohammad-adnan-alazzam.github.io/reading-notes/class-01) |
 2 | reading2 | [201Read02](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read02) |
-3 | reading | Title |
+3 | reading3 | [201Read03](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read03) |
 4 | reading | Title |
 5 | reading | Title |
 6 | reading | Title |
