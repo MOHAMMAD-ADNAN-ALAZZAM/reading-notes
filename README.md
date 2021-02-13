@@ -47,7 +47,7 @@ reading assignments
 3 | reading3 | [201Read03](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read03) |
 4 | reading4 |[201Read04](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read04)|
 5 | reading5 | [201Read05](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read05)|
-6 | reading | Title |
+6 | reading6 | [201Read06](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read06) |
 7 | reading | Title |
 8 | reading | Title |
 9 | reading | Title |
