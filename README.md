@@ -50,7 +50,7 @@ reading assignments
 6 | reading6 | [201Read06](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read06) |
 7 | reading7 | [201Read07](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read07) |
 8 | reading8 |[201Read08](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read08) |
-9 | reading | Title |
+9 | reading9 |[201Read09](https://mohammad-adnan-alazzam.github.io/reading-notes/201Read09) |
 10| reading | Title |
 11| reading | Title |
 12| reading | Title |
